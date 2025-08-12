@@ -1,5 +1,4 @@
-# randomweb.github.io
-[CODE FOR WEBSITE.txt](https://github.com/user-attachments/files/21743453/CODE.FOR.WEBSITE.txt)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -213,13 +212,13 @@
    <div class="contact-box">
       <div class="section-title"> stuff</div>
       <ul>
-        <li>Add to Friends</li>
-        <li>Send Message</li>
-        <li>Instant Message</li>
-        <li>Add to Favorites</li>
-        <li>Forward to Friend</li>
-        <li>Block User</li>
-        <li>Report User</li>
+        <li> s s</li>
+        <li>stuff</li>
+        <li>stuf</li>
+        <li>stuff</li>
+        <li>stuff</li>
+        <li>stuff</li>
+        <li>stuff</li>
       </ul>
       <small> stuff</small>
     </div>
@@ -262,13 +261,13 @@
     </div>
    <!-- New info boxes -->
     <div class="info-box">
-      <div class="section-title">Random Thoughts</div>
-      <p>Sometimes I wonder what it would be like if time really stood still for a moment. Also, why do cats always land on their feet?</p>
+      <div class="section-title">v games</div>
+      <p>stuff</p>
     </div>
 
   <div class="info-box">
       <div class="section-title">Mood</div>
-      <p>Feeling excited for the weekend! Been jamming to some new tunes and playing way too much Fortnite.</p>
+      <p>stuff</p>
     </div>
 
    <div class="info-box">
